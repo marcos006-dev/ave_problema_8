@@ -20,8 +20,8 @@ pantalla.
 Para ejecutar este proyecto, primeramente descarguelo y leugo instálelo localmente usando npm:
 
 ```
-$ git clone
-$ cd problema_1
+$ git clone https://github.com/marcos006-dev/ave_problema_8.git
+$ cd ave_problema_8
 $ npm install
 $ npm start
 $ visualizar en el navegador http://localhost:3000/
